@@ -1,0 +1,23 @@
+{
+  "name": "next-gen-creative",
+  "version": "2.0.0",
+  "description": "Premium Design Studio - Next-Gen Creative Admin & Public Site",
+  "main": "index.html",
+  "scripts": {
+    "dev": "python -m http.server 3000",
+    "start": "node api/notify.js",
+    "build": "echo 'Static site - no build needed'"
+  },
+  "keywords": [
+    "design",
+    "admin",
+    "dashboard",
+    "creative",
+    "branding"
+  ],
+  "author": "Next-Gen Creative",
+  "license": "MIT",
+  "engines": {
+    "node": "24.x"
+  }
+}
